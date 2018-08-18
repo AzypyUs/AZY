@@ -3,6 +3,7 @@ Olá, para ultilizar use os comandos:
 apt update
 apt install git
 apt install clang
+git clone https://github.com/AzypyUs/azy
 ls
 cd azy
 ls
