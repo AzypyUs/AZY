@@ -1,0 +1,10 @@
+# AZY
+Olá, para ultilizar use os comandos:
+apt update
+apt install git
+apt install clang
+ls
+cd azy
+ls
+clang azy.c -0 azy
+./azy <site> 80
